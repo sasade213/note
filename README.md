@@ -1,3 +1,3 @@
 # note
 note for leetcode
-111
+321
